@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d0313ad6-174f-442c-af5c-b71134132c23" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FitFood_Web/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/FitFood_Web/settings.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +89,7 @@
       <option name="presentableId" value="Default" />
       <updated>1572103935375</updated>
       <workItem from="1572103936593" duration="8168000" />
-      <workItem from="1572222342776" duration="6171000" />
+      <workItem from="1572222342776" duration="6503000" />
     </task>
     <servers />
   </component>
