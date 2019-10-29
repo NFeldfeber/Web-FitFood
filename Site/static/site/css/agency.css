@@ -460,7 +460,7 @@ header.masthead .intro-text .intro-heading {
 .timeline > li.timeline-inverted > .timeline-panel:before {
   right: auto;
   left: -15px;
-  border-right-width: 15px;
+  border-right-width: 5px;
   border-left-width: 0;
 }
 
